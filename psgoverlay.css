@@ -1,0 +1,44 @@
+/* Overlay main wrapper (div)*/
+.psgwrapper{
+	background-color: #120910;
+	/* for IE */
+  	filter:alpha(opacity=60);
+  	/* CSS3 standard */
+  	opacity:0.6;
+	padding: 5px;
+	height: 100px;
+	position: relative;
+	top: 360px;
+	left: 0px;
+	font-family: Arial,Georgia,"Times New Roman",Times,serif;
+}
+
+/* title (h4) */
+.psgtitle{
+	margin: 0px;
+	padding: 0px;
+}
+
+/* description (paragraph) */
+.psgdescription{
+	margin: 0px;
+}
+div.galleria-counter {
+	position: relative;
+	float: right;
+	margin-right: 15px;
+	padding-bottom: 2px;
+	font: 9px/1 arial,sans-serif;
+}
+
+div.galleria-container {
+	border-style: solid;
+	border-width: 1px;
+	border-color: #666666;
+	position: relative;
+	top: -1px;
+	left: -1px;
+}
+div.galleria-layer {
+	
+}
