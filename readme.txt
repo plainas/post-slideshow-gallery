@@ -11,7 +11,7 @@ Post slideshow gallery is a barebones plugins that displays post's pictures on a
 
 This is a very barebones plugin, it aims to do one thing well and nothing else. There are no fancy extra features. Just insert [postslideshow] on your post content where you want the slideshow to appear and you're good to go. All the pictures of the current post will be included in the slideshow. 
 
-The dimensions of the gallery can be condigured in options menu.
+The dimensions of the gallery can be configured in the options menu.
 
 == Installation ==
 
@@ -23,7 +23,7 @@ Or, as an alternative, simply install from the plugin manager.
 
 = Can I display multiple galleries in the same page? =
 
-Yes, that was a reason this plugin was created, there was no decen slideshow plugin that would do that, so this post-slideshow-gallery was created.
+Yes, that was a reason this plugin was created, there was no decent slideshow plugin that would do that, so this post-slideshow-gallery was created.
 
 = Can I change the look and feel of the slideshow? =
 
